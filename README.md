@@ -1,2 +1,2 @@
 # smart-faisal
-This is my first repositroy.
+This is my first repositroy..
